@@ -1,0 +1,9 @@
+[
+  {
+    "label": "remote_s_address",
+    "content": "remote_s_address = \"192.168.8.21\";",
+    "reference_reason": "Matches the CN_AMF_IP from the reference device table",
+    "model_reason": "The remote_s_address must be set to a valid IP address to establish a connection, and using the CN_AMF_IP ensures communication with the core network. This change resolves the syntax error and allows the CU to start.",
+    "target": "CU"
+  }
+]

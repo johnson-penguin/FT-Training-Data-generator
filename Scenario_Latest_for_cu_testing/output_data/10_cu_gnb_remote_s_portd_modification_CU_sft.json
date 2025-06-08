@@ -1,0 +1,11 @@
+[
+  {
+    "label": "integrity_algorithms",
+    "before": "integrity_algorithms = ( \"nia2\", \"nia0\" );",
+    "after": "integrity_algorithms = ( \"nia0\", \"nia2\" );",
+    "model_reason": "The change is necessary to avoid CU startup failure by only using supported integrity algorithms. This ensures the CU can initialize correctly and maintain network stability.",
+    "reference_reason": "Matches expected supported integrity algorithms",
+    "config_type": "CU",
+    "source_file": "10_cu_gnb_remote_s_portd.conf"
+  }
+]

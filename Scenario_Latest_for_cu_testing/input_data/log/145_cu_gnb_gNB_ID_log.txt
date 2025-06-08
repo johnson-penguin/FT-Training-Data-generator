@@ -1,0 +1,31 @@
+[UTIL]   running in SA mode (no --phy-test, --do-ra, --nsa option present)
+[OPT]   OPT disabled
+[HW]   Version: Branch: develop Abrev. Hash: 054506f5ae Date: Tue Dec 10 13:33:23 2024 +0000
+[GNB_APP]   Initialized RAN Context: RC.nb_nr_inst = 1, RC.nb_nr_macrlc_inst = 0, RC.nb_nr_L1_inst = 0, RC.nb_RU = 0, RC.nb_nr_CC[0] = 0
+[GNB_APP]   F1AP: gNB_CU_id[0] 0
+[GNB_APP]   F1AP: gNB_CU_name[0] gNB-Eurecom-CU
+[GNB_APP]   SDAP layer is disabled
+[GNB_APP]   Data Radio Bearer count 1
+[NR_RRC]   do_SIB23_NR, size 9
+[UTIL]   threadCreate() for TASK_SCTP: creating thread with affinity ffffffff, priority 50
+[X2AP]   X2AP is disabled.
+[UTIL]   threadCreate() for TASK_NGAP: creating thread with affinity ffffffff, priority 50
+[UTIL]   threadCreate() for TASK_GNB_APP: creating thread with affinity ffffffff, priority 50
+[NGAP]   Registered new gNB[0] and macro gNB id 0
+[NGAP]   [gNB 0] check the amf registration state
+[UTIL]   threadCreate() for TASK_RRC_GNB: creating thread with affinity ffffffff, priority 50
+[UTIL]   threadCreate() for TASK_CU_F1: creating thread with affinity ffffffff, priority 50
+[NGAP]   Send NGSetupRequest to AMF
+[NGAP]   0 -> 00000000
+[NGAP]   Received NGSetupResponse from AMF
+[GTPU]   Configuring GTPu
+[GTPU]   SA mode 
+
+Assertion (config_isparamset(gnbParms, 0)) failed!
+In RCconfig_NR_CU_E1() /home/oai72/oai_split/openairinterface5g/openair2/E1AP/e1ap_setup.c:132
+gNB_ID is not defined in configuration file
+
+Exiting execution
+CMDLINE: "./nr-softmodem" "--rfsim" "--sa" "-O" "/home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/145_cu_gnb_gNB_ID.conf" 
+[CONFIG] function config_libconfig_init returned 0
+/home/oai72/oai_split/openairinterface5g/openair2/E1AP/e1ap_setup.c:132 RCconfig_NR_CU_E1() Exiting OAI softmodem: _Assert_Exit_

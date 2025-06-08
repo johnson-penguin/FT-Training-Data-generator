@@ -1,0 +1,1492 @@
+📥 Logging this run to: /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/console_log.txt
+
+
+🔧 [0] Running config: 0_cu_gnb_original.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/0_cu_gnb_original.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/0_cu_gnb_original_log.txt
+
+🔧 [1] Running config: 100_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/100_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/100_cu_gnb_remote_s_portc_log.txt
+
+🔧 [2] Running config: 101_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/101_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/101_cu_gnb_remote_s_portc_log.txt
+
+🔧 [3] Running config: 102_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/102_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/102_cu_gnb_remote_s_address_log.txt
+
+🔧 [4] Running config: 103_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/103_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/103_cu_gnb_remote_s_address_log.txt
+
+🔧 [5] Running config: 104_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/104_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/104_cu_gnb_remote_s_address_log.txt
+
+🔧 [6] Running config: 105_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/105_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/105_cu_gnb_remote_s_address_log.txt
+
+🔧 [7] Running config: 106_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/106_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/106_cu_gnb_remote_s_address_log.txt
+
+🔧 [8] Running config: 107_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/107_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/107_cu_gnb_remote_s_address_log.txt
+
+🔧 [9] Running config: 108_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/108_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/108_cu_gnb_remote_s_address_log.txt
+
+🔧 [10] Running config: 109_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/109_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/109_cu_gnb_remote_s_address_log.txt
+
+🔧 [11] Running config: 10_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/10_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/10_cu_gnb_remote_s_portd_log.txt
+
+🔧 [12] Running config: 110_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/110_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/110_cu_gnb_remote_s_address_log.txt
+
+🔧 [13] Running config: 111_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/111_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/111_cu_gnb_remote_s_address_log.txt
+
+🔧 [14] Running config: 112_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/112_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/112_cu_gnb_remote_s_address_log.txt
+
+🔧 [15] Running config: 113_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/113_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/113_cu_gnb_remote_s_address_log.txt
+
+🔧 [16] Running config: 114_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/114_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/114_cu_gnb_remote_s_address_log.txt
+
+🔧 [17] Running config: 115_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/115_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/115_cu_gnb_remote_s_address_log.txt
+
+🔧 [18] Running config: 116_cu_gnb_remote_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/116_cu_gnb_remote_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/116_cu_gnb_remote_s_address_log.txt
+
+🔧 [19] Running config: 117_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/117_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/117_cu_gnb_amf_ip_address_log.txt
+
+🔧 [20] Running config: 118_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/118_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/118_cu_gnb_amf_ip_address_log.txt
+
+🔧 [21] Running config: 119_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/119_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/119_cu_gnb_amf_ip_address_log.txt
+
+🔧 [22] Running config: 11_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/11_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/11_cu_gnb_remote_s_portd_log.txt
+
+🔧 [23] Running config: 120_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/120_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/120_cu_gnb_amf_ip_address_log.txt
+
+🔧 [24] Running config: 121_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/121_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/121_cu_gnb_amf_ip_address_log.txt
+
+🔧 [25] Running config: 122_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/122_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/122_cu_gnb_amf_ip_address_log.txt
+
+🔧 [26] Running config: 123_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/123_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/123_cu_gnb_amf_ip_address_log.txt
+
+🔧 [27] Running config: 124_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/124_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/124_cu_gnb_amf_ip_address_log.txt
+
+🔧 [28] Running config: 125_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/125_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/125_cu_gnb_amf_ip_address_log.txt
+
+🔧 [29] Running config: 126_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/126_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/126_cu_gnb_amf_ip_address_log.txt
+
+🔧 [30] Running config: 127_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/127_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/127_cu_gnb_amf_ip_address_log.txt
+
+🔧 [31] Running config: 128_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/128_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/128_cu_gnb_amf_ip_address_log.txt
+
+🔧 [32] Running config: 129_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/129_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/129_cu_gnb_amf_ip_address_log.txt
+
+🔧 [33] Running config: 12_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/12_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/12_cu_gnb_remote_s_portd_log.txt
+
+🔧 [34] Running config: 130_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/130_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/130_cu_gnb_amf_ip_address_log.txt
+
+🔧 [35] Running config: 131_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/131_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/131_cu_gnb_amf_ip_address_log.txt
+
+🔧 [36] Running config: 132_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/132_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/132_cu_gnb_amf_ip_address_log.txt
+
+🔧 [37] Running config: 133_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/133_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/133_cu_gnb_amf_ip_address_log.txt
+
+🔧 [38] Running config: 134_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/134_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/134_cu_gnb_amf_ip_address_log.txt
+
+🔧 [39] Running config: 135_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/135_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/135_cu_gnb_amf_ip_address_log.txt
+
+🔧 [40] Running config: 136_cu_gnb_amf_ip_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/136_cu_gnb_amf_ip_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/136_cu_gnb_amf_ip_address_log.txt
+
+🔧 [41] Running config: 137_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/137_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/137_cu_gnb_gNB_ID_log.txt
+
+🔧 [42] Running config: 138_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/138_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/138_cu_gnb_gNB_ID_log.txt
+
+🔧 [43] Running config: 139_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/139_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/139_cu_gnb_gNB_ID_log.txt
+
+🔧 [44] Running config: 13_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/13_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/13_cu_gnb_tr_s_preference_log.txt
+
+🔧 [45] Running config: 140_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/140_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/140_cu_gnb_gNB_ID_log.txt
+
+🔧 [46] Running config: 141_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/141_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/141_cu_gnb_gNB_ID_log.txt
+
+🔧 [47] Running config: 142_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/142_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/142_cu_gnb_gNB_ID_log.txt
+
+🔧 [48] Running config: 143_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/143_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/143_cu_gnb_gNB_ID_log.txt
+
+🔧 [49] Running config: 144_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/144_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/144_cu_gnb_gNB_ID_log.txt
+
+🔧 [50] Running config: 145_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/145_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/145_cu_gnb_gNB_ID_log.txt
+
+🔧 [51] Running config: 146_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/146_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/146_cu_gnb_gNB_ID_log.txt
+
+🔧 [52] Running config: 147_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/147_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/147_cu_gnb_gNB_ID_log.txt
+
+🔧 [53] Running config: 148_cu_gnb_gNB_ID.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/148_cu_gnb_gNB_ID.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/148_cu_gnb_gNB_ID_log.txt
+
+🔧 [54] Running config: 149_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/149_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/149_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [55] Running config: 14_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/14_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/14_cu_gnb_tr_s_preference_log.txt
+
+🔧 [56] Running config: 150_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/150_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/150_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [57] Running config: 151_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/151_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/151_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [58] Running config: 152_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/152_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/152_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [59] Running config: 153_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/153_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/153_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [60] Running config: 154_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/154_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/154_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [61] Running config: 155_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/155_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/155_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [62] Running config: 156_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/156_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/156_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [63] Running config: 157_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/157_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/157_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [64] Running config: 158_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/158_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/158_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [65] Running config: 159_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/159_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/159_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [66] Running config: 15_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/15_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/15_cu_gnb_tr_s_preference_log.txt
+
+🔧 [67] Running config: 160_cu_gnb_ciphering_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/160_cu_gnb_ciphering_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/160_cu_gnb_ciphering_algorithms_log.txt
+
+🔧 [68] Running config: 161_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/161_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/161_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [69] Running config: 162_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/162_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/162_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [70] Running config: 163_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/163_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/163_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [71] Running config: 164_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/164_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/164_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [72] Running config: 165_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/165_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/165_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [73] Running config: 166_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/166_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/166_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [74] Running config: 167_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/167_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/167_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [75] Running config: 168_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/168_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/168_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [76] Running config: 169_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/169_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/169_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [77] Running config: 16_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/16_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/16_cu_gnb_tr_s_preference_log.txt
+
+🔧 [78] Running config: 170_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/170_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/170_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [79] Running config: 171_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/171_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/171_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [80] Running config: 172_cu_gnb_SCTP_INSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/172_cu_gnb_SCTP_INSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/172_cu_gnb_SCTP_INSTREAMS_log.txt
+
+🔧 [81] Running config: 173_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/173_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/173_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [82] Running config: 174_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/174_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/174_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [83] Running config: 175_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/175_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/175_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [84] Running config: 176_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/176_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/176_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [85] Running config: 177_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/177_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/177_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [86] Running config: 178_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/178_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/178_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [87] Running config: 179_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/179_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/179_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [88] Running config: 17_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/17_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/17_cu_gnb_tr_s_preference_log.txt
+
+🔧 [89] Running config: 180_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/180_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/180_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [90] Running config: 181_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/181_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/181_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [91] Running config: 182_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/182_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/182_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [92] Running config: 183_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/183_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/183_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [93] Running config: 184_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/184_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/184_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [94] Running config: 185_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/185_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/185_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [95] Running config: 186_cu_gnb_Num_Threads_PUSCH.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/186_cu_gnb_Num_Threads_PUSCH.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/186_cu_gnb_Num_Threads_PUSCH_log.txt
+
+🔧 [96] Running config: 187_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/187_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/187_cu_gnb_Active_gNBs_log.txt
+
+🔧 [97] Running config: 188_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/188_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/188_cu_gnb_Active_gNBs_log.txt
+
+🔧 [98] Running config: 189_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/189_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/189_cu_gnb_Active_gNBs_log.txt
+
+🔧 [99] Running config: 18_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/18_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/18_cu_gnb_tr_s_preference_log.txt
+
+🔧 [100] Running config: 190_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/190_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/190_cu_gnb_Active_gNBs_log.txt
+
+🔧 [101] Running config: 191_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/191_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/191_cu_gnb_Active_gNBs_log.txt
+
+🔧 [102] Running config: 192_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/192_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/192_cu_gnb_Active_gNBs_log.txt
+
+🔧 [103] Running config: 193_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/193_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/193_cu_gnb_Active_gNBs_log.txt
+
+🔧 [104] Running config: 194_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/194_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/194_cu_gnb_Active_gNBs_log.txt
+
+🔧 [105] Running config: 195_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/195_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/195_cu_gnb_Active_gNBs_log.txt
+
+🔧 [106] Running config: 196_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/196_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/196_cu_gnb_Active_gNBs_log.txt
+
+🔧 [107] Running config: 197_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/197_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/197_cu_gnb_Active_gNBs_log.txt
+
+🔧 [108] Running config: 198_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/198_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/198_cu_gnb_Active_gNBs_log.txt
+
+🔧 [109] Running config: 199_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/199_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/199_cu_gnb_Active_gNBs_log.txt
+
+🔧 [110] Running config: 19_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/19_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/19_cu_gnb_tr_s_preference_log.txt
+
+🔧 [111] Running config: 1_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/1_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/1_cu_gnb_remote_s_portd_log.txt
+
+🔧 [112] Running config: 200_cu_gnb_Active_gNBs.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/200_cu_gnb_Active_gNBs.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/200_cu_gnb_Active_gNBs_log.txt
+
+🔧 [113] Running config: 201_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/201_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/201_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [114] Running config: 202_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/202_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/202_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [115] Running config: 203_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/203_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/203_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [116] Running config: 204_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/204_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/204_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [117] Running config: 205_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/205_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/205_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [118] Running config: 206_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/206_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/206_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [119] Running config: 207_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/207_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/207_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [120] Running config: 208_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/208_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/208_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [121] Running config: 209_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/209_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/209_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [122] Running config: 20_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/20_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/20_cu_gnb_tr_s_preference_log.txt
+
+🔧 [123] Running config: 210_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/210_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/210_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [124] Running config: 211_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/211_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/211_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [125] Running config: 212_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/212_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/212_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [126] Running config: 213_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/213_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/213_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [127] Running config: 214_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/214_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/214_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [128] Running config: 215_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/215_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/215_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF_log.txt
+
+🔧 [129] Running config: 216_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/216_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/216_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [130] Running config: 217_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/217_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/217_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [131] Running config: 218_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/218_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/218_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [132] Running config: 219_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/219_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/219_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [133] Running config: 21_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/21_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/21_cu_gnb_tr_s_preference_log.txt
+
+🔧 [134] Running config: 220_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/220_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/220_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [135] Running config: 221_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/221_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/221_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [136] Running config: 222_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/222_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/222_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [137] Running config: 223_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/223_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/223_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [138] Running config: 224_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/224_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/224_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [139] Running config: 225_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/225_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/225_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [140] Running config: 226_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/226_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/226_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [141] Running config: 227_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/227_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/227_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [142] Running config: 228_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/228_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/228_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [143] Running config: 229_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/229_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/229_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [144] Running config: 22_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/22_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/22_cu_gnb_tr_s_preference_log.txt
+
+🔧 [145] Running config: 230_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/230_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/230_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU_log.txt
+
+🔧 [146] Running config: 231_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/231_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/231_cu_gnb_local_s_portd_log.txt
+
+🔧 [147] Running config: 232_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/232_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/232_cu_gnb_local_s_portd_log.txt
+
+🔧 [148] Running config: 233_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/233_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/233_cu_gnb_local_s_portd_log.txt
+
+🔧 [149] Running config: 234_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/234_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/234_cu_gnb_local_s_portd_log.txt
+
+🔧 [150] Running config: 235_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/235_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/235_cu_gnb_local_s_portd_log.txt
+
+🔧 [151] Running config: 236_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/236_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/236_cu_gnb_local_s_portd_log.txt
+
+🔧 [152] Running config: 237_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/237_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/237_cu_gnb_local_s_portd_log.txt
+
+🔧 [153] Running config: 238_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/238_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/238_cu_gnb_local_s_portd_log.txt
+
+🔧 [154] Running config: 239_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/239_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/239_cu_gnb_local_s_portd_log.txt
+
+🔧 [155] Running config: 23_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/23_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/23_cu_gnb_tr_s_preference_log.txt
+
+🔧 [156] Running config: 240_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/240_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/240_cu_gnb_local_s_portd_log.txt
+
+🔧 [157] Running config: 241_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/241_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/241_cu_gnb_local_s_portd_log.txt
+
+🔧 [158] Running config: 242_cu_gnb_local_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/242_cu_gnb_local_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/242_cu_gnb_local_s_portd_log.txt
+
+🔧 [159] Running config: 243_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/243_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/243_cu_gnb_plmn_list_log.txt
+
+🔧 [160] Running config: 244_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/244_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/244_cu_gnb_plmn_list_log.txt
+
+🔧 [161] Running config: 245_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/245_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/245_cu_gnb_plmn_list_log.txt
+
+🔧 [162] Running config: 246_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/246_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/246_cu_gnb_plmn_list_log.txt
+
+🔧 [163] Running config: 247_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/247_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/247_cu_gnb_plmn_list_log.txt
+
+🔧 [164] Running config: 248_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/248_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/248_cu_gnb_plmn_list_log.txt
+
+🔧 [165] Running config: 249_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/249_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/249_cu_gnb_plmn_list_log.txt
+
+🔧 [166] Running config: 24_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/24_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/24_cu_gnb_tr_s_preference_log.txt
+
+🔧 [167] Running config: 250_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/250_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/250_cu_gnb_plmn_list_log.txt
+
+🔧 [168] Running config: 251_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/251_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/251_cu_gnb_plmn_list_log.txt
+
+🔧 [169] Running config: 252_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/252_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/252_cu_gnb_plmn_list_log.txt
+
+🔧 [170] Running config: 253_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/253_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/253_cu_gnb_plmn_list_log.txt
+
+🔧 [171] Running config: 254_cu_gnb_plmn_list.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/254_cu_gnb_plmn_list.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/254_cu_gnb_plmn_list_log.txt
+
+🔧 [172] Running config: 255_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/255_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/255_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [173] Running config: 256_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/256_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/256_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [174] Running config: 257_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/257_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/257_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [175] Running config: 258_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/258_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/258_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [176] Running config: 259_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/259_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/259_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [177] Running config: 25_cu_gnb_tr_s_preference.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/25_cu_gnb_tr_s_preference.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/25_cu_gnb_tr_s_preference_log.txt
+
+🔧 [178] Running config: 260_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/260_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/260_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [179] Running config: 261_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/261_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/261_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [180] Running config: 262_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/262_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/262_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [181] Running config: 263_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/263_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/263_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [182] Running config: 264_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/264_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/264_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [183] Running config: 265_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/265_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/265_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [184] Running config: 266_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/266_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/266_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [185] Running config: 267_cu_gnb_integrity_algorithms.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/267_cu_gnb_integrity_algorithms.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/267_cu_gnb_integrity_algorithms_log.txt
+
+🔧 [186] Running config: 268_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/268_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/268_cu_gnb_local_s_address_log.txt
+
+🔧 [187] Running config: 269_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/269_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/269_cu_gnb_local_s_address_log.txt
+
+🔧 [188] Running config: 26_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/26_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/26_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [189] Running config: 270_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/270_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/270_cu_gnb_local_s_address_log.txt
+
+🔧 [190] Running config: 271_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/271_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/271_cu_gnb_local_s_address_log.txt
+
+🔧 [191] Running config: 272_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/272_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/272_cu_gnb_local_s_address_log.txt
+
+🔧 [192] Running config: 273_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/273_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/273_cu_gnb_local_s_address_log.txt
+
+🔧 [193] Running config: 274_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/274_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/274_cu_gnb_local_s_address_log.txt
+
+🔧 [194] Running config: 275_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/275_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/275_cu_gnb_local_s_address_log.txt
+
+🔧 [195] Running config: 276_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/276_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/276_cu_gnb_local_s_address_log.txt
+
+🔧 [196] Running config: 277_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/277_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/277_cu_gnb_local_s_address_log.txt
+
+🔧 [197] Running config: 278_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/278_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/278_cu_gnb_local_s_address_log.txt
+
+🔧 [198] Running config: 279_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/279_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/279_cu_gnb_local_s_address_log.txt
+
+🔧 [199] Running config: 27_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/27_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/27_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [200] Running config: 280_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/280_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/280_cu_gnb_local_s_address_log.txt
+
+🔧 [201] Running config: 281_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/281_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/281_cu_gnb_local_s_address_log.txt
+
+🔧 [202] Running config: 282_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/282_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/282_cu_gnb_local_s_address_log.txt
+
+🔧 [203] Running config: 283_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/283_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/283_cu_gnb_local_s_address_log.txt
+
+🔧 [204] Running config: 284_cu_gnb_local_s_address.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/284_cu_gnb_local_s_address.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/284_cu_gnb_local_s_address_log.txt
+
+🔧 [205] Running config: 285_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/285_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/285_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [206] Running config: 286_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/286_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/286_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [207] Running config: 287_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/287_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/287_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [208] Running config: 288_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/288_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/288_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [209] Running config: 289_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/289_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/289_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [210] Running config: 28_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/28_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/28_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [211] Running config: 290_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/290_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/290_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [212] Running config: 291_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/291_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/291_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [213] Running config: 292_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/292_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/292_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [214] Running config: 293_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/293_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/293_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [215] Running config: 294_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/294_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/294_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [216] Running config: 295_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/295_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/295_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [217] Running config: 296_cu_gnb_SCTP_OUTSTREAMS.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/296_cu_gnb_SCTP_OUTSTREAMS.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/296_cu_gnb_SCTP_OUTSTREAMS_log.txt
+
+🔧 [218] Running config: 29_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/29_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/29_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [219] Running config: 2_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/2_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/2_cu_gnb_remote_s_portd_log.txt
+
+🔧 [220] Running config: 30_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/30_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/30_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [221] Running config: 31_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/31_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/31_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [222] Running config: 32_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/32_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/32_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [223] Running config: 33_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/33_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/33_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [224] Running config: 34_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/34_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/34_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [225] Running config: 35_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/35_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/35_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [226] Running config: 36_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/36_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/36_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [227] Running config: 37_cu_gnb_GNB_PORT_FOR_S1U.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/37_cu_gnb_GNB_PORT_FOR_S1U.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/37_cu_gnb_GNB_PORT_FOR_S1U_log.txt
+
+🔧 [228] Running config: 38_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/38_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/38_cu_gnb_nr_cellid_log.txt
+
+🔧 [229] Running config: 39_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/39_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/39_cu_gnb_nr_cellid_log.txt
+
+🔧 [230] Running config: 3_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/3_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/3_cu_gnb_remote_s_portd_log.txt
+
+🔧 [231] Running config: 40_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/40_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/40_cu_gnb_nr_cellid_log.txt
+
+🔧 [232] Running config: 41_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/41_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/41_cu_gnb_nr_cellid_log.txt
+
+🔧 [233] Running config: 42_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/42_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/42_cu_gnb_nr_cellid_log.txt
+
+🔧 [234] Running config: 43_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/43_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/43_cu_gnb_nr_cellid_log.txt
+
+🔧 [235] Running config: 44_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/44_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/44_cu_gnb_nr_cellid_log.txt
+
+🔧 [236] Running config: 45_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/45_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/45_cu_gnb_nr_cellid_log.txt
+
+🔧 [237] Running config: 46_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/46_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/46_cu_gnb_nr_cellid_log.txt
+
+🔧 [238] Running config: 47_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/47_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/47_cu_gnb_nr_cellid_log.txt
+
+🔧 [239] Running config: 48_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/48_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/48_cu_gnb_nr_cellid_log.txt
+
+🔧 [240] Running config: 49_cu_gnb_nr_cellid.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/49_cu_gnb_nr_cellid.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/49_cu_gnb_nr_cellid_log.txt
+
+🔧 [241] Running config: 4_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/4_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/4_cu_gnb_remote_s_portd_log.txt
+
+🔧 [242] Running config: 50_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/50_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/50_cu_gnb_local_s_portc_log.txt
+
+🔧 [243] Running config: 51_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/51_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/51_cu_gnb_local_s_portc_log.txt
+
+🔧 [244] Running config: 52_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/52_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/52_cu_gnb_local_s_portc_log.txt
+
+🔧 [245] Running config: 53_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/53_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/53_cu_gnb_local_s_portc_log.txt
+
+🔧 [246] Running config: 54_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/54_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/54_cu_gnb_local_s_portc_log.txt
+
+🔧 [247] Running config: 55_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/55_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/55_cu_gnb_local_s_portc_log.txt
+
+🔧 [248] Running config: 56_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/56_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/56_cu_gnb_local_s_portc_log.txt
+
+🔧 [249] Running config: 57_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/57_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/57_cu_gnb_local_s_portc_log.txt
+
+🔧 [250] Running config: 58_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/58_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/58_cu_gnb_local_s_portc_log.txt
+
+🔧 [251] Running config: 59_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/59_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/59_cu_gnb_local_s_portc_log.txt
+
+🔧 [252] Running config: 5_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/5_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/5_cu_gnb_remote_s_portd_log.txt
+
+🔧 [253] Running config: 60_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/60_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/60_cu_gnb_local_s_portc_log.txt
+
+🔧 [254] Running config: 61_cu_gnb_local_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/61_cu_gnb_local_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/61_cu_gnb_local_s_portc_log.txt
+
+🔧 [255] Running config: 62_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/62_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/62_cu_gnb_local_s_if_name_log.txt
+
+🔧 [256] Running config: 63_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/63_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/63_cu_gnb_local_s_if_name_log.txt
+
+🔧 [257] Running config: 64_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/64_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/64_cu_gnb_local_s_if_name_log.txt
+
+🔧 [258] Running config: 65_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/65_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/65_cu_gnb_local_s_if_name_log.txt
+
+🔧 [259] Running config: 66_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/66_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/66_cu_gnb_local_s_if_name_log.txt
+
+🔧 [260] Running config: 67_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/67_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/67_cu_gnb_local_s_if_name_log.txt
+
+🔧 [261] Running config: 68_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/68_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/68_cu_gnb_local_s_if_name_log.txt
+
+🔧 [262] Running config: 69_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/69_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/69_cu_gnb_local_s_if_name_log.txt
+
+🔧 [263] Running config: 6_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/6_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/6_cu_gnb_remote_s_portd_log.txt
+
+🔧 [264] Running config: 70_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/70_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/70_cu_gnb_local_s_if_name_log.txt
+
+🔧 [265] Running config: 71_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/71_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/71_cu_gnb_local_s_if_name_log.txt
+
+🔧 [266] Running config: 72_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/72_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/72_cu_gnb_local_s_if_name_log.txt
+
+🔧 [267] Running config: 73_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/73_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/73_cu_gnb_local_s_if_name_log.txt
+
+🔧 [268] Running config: 74_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/74_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/74_cu_gnb_local_s_if_name_log.txt
+
+🔧 [269] Running config: 75_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/75_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/75_cu_gnb_local_s_if_name_log.txt
+
+🔧 [270] Running config: 76_cu_gnb_local_s_if_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/76_cu_gnb_local_s_if_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/76_cu_gnb_local_s_if_name_log.txt
+
+🔧 [271] Running config: 77_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/77_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/77_cu_gnb_gNB_name_log.txt
+
+🔧 [272] Running config: 78_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/78_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/78_cu_gnb_gNB_name_log.txt
+
+🔧 [273] Running config: 79_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/79_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/79_cu_gnb_gNB_name_log.txt
+
+🔧 [274] Running config: 7_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/7_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/7_cu_gnb_remote_s_portd_log.txt
+
+🔧 [275] Running config: 80_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/80_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/80_cu_gnb_gNB_name_log.txt
+
+🔧 [276] Running config: 81_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/81_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/81_cu_gnb_gNB_name_log.txt
+
+🔧 [277] Running config: 82_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/82_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/82_cu_gnb_gNB_name_log.txt
+
+🔧 [278] Running config: 83_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/83_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/83_cu_gnb_gNB_name_log.txt
+
+🔧 [279] Running config: 84_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/84_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/84_cu_gnb_gNB_name_log.txt
+
+🔧 [280] Running config: 85_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/85_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/85_cu_gnb_gNB_name_log.txt
+
+🔧 [281] Running config: 86_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/86_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/86_cu_gnb_gNB_name_log.txt
+
+🔧 [282] Running config: 87_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/87_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/87_cu_gnb_gNB_name_log.txt
+
+🔧 [283] Running config: 88_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/88_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/88_cu_gnb_gNB_name_log.txt
+
+🔧 [284] Running config: 89_cu_gnb_gNB_name.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/89_cu_gnb_gNB_name.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/89_cu_gnb_gNB_name_log.txt
+
+🔧 [285] Running config: 8_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/8_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/8_cu_gnb_remote_s_portd_log.txt
+
+🔧 [286] Running config: 90_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/90_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/90_cu_gnb_remote_s_portc_log.txt
+
+🔧 [287] Running config: 91_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/91_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/91_cu_gnb_remote_s_portc_log.txt
+
+🔧 [288] Running config: 92_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/92_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/92_cu_gnb_remote_s_portc_log.txt
+
+🔧 [289] Running config: 93_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/93_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/93_cu_gnb_remote_s_portc_log.txt
+
+🔧 [290] Running config: 94_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/94_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/94_cu_gnb_remote_s_portc_log.txt
+
+🔧 [291] Running config: 95_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/95_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/95_cu_gnb_remote_s_portc_log.txt
+
+🔧 [292] Running config: 96_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/96_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/96_cu_gnb_remote_s_portc_log.txt
+
+🔧 [293] Running config: 97_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/97_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/97_cu_gnb_remote_s_portc_log.txt
+
+🔧 [294] Running config: 98_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/98_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/98_cu_gnb_remote_s_portc_log.txt
+
+🔧 [295] Running config: 99_cu_gnb_remote_s_portc.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/99_cu_gnb_remote_s_portc.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/99_cu_gnb_remote_s_portc_log.txt
+
+🔧 [296] Running config: 9_cu_gnb_remote_s_portd.conf
+🛠️ Running: sudo ./nr-softmodem --rfsim --sa -O /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_conf/9_cu_gnb_remote_s_portd.conf for 20 seconds
+📄 Saved log to /home/oai72/Johnson/tool/scenario_gen/cu/cu_test_log/9_cu_gnb_remote_s_portd_log.txt
+
+📊 Summary:
+- [0] 0_cu_gnb_original.conf => timeout
+- [1] 100_cu_gnb_remote_s_portc.conf => timeout
+- [2] 101_cu_gnb_remote_s_portc.conf => timeout
+- [3] 102_cu_gnb_remote_s_address.conf => exit=255
+- [4] 103_cu_gnb_remote_s_address.conf => timeout
+- [5] 104_cu_gnb_remote_s_address.conf => timeout
+- [6] 105_cu_gnb_remote_s_address.conf => timeout
+- [7] 106_cu_gnb_remote_s_address.conf => timeout
+- [8] 107_cu_gnb_remote_s_address.conf => timeout
+- [9] 108_cu_gnb_remote_s_address.conf => exit=255
+- [10] 109_cu_gnb_remote_s_address.conf => timeout
+- [11] 10_cu_gnb_remote_s_portd.conf => timeout
+- [12] 110_cu_gnb_remote_s_address.conf => timeout
+- [13] 111_cu_gnb_remote_s_address.conf => exit=255
+- [14] 112_cu_gnb_remote_s_address.conf => timeout
+- [15] 113_cu_gnb_remote_s_address.conf => timeout
+- [16] 114_cu_gnb_remote_s_address.conf => timeout
+- [17] 115_cu_gnb_remote_s_address.conf => timeout
+- [18] 116_cu_gnb_remote_s_address.conf => timeout
+- [19] 117_cu_gnb_amf_ip_address.conf => exit=255
+- [20] 118_cu_gnb_amf_ip_address.conf => timeout
+- [21] 119_cu_gnb_amf_ip_address.conf => exit=255
+- [22] 11_cu_gnb_remote_s_portd.conf => timeout
+- [23] 120_cu_gnb_amf_ip_address.conf => exit=255
+- [24] 121_cu_gnb_amf_ip_address.conf => timeout
+- [25] 122_cu_gnb_amf_ip_address.conf => timeout
+- [26] 123_cu_gnb_amf_ip_address.conf => timeout
+- [27] 124_cu_gnb_amf_ip_address.conf => exit=-11
+- [28] 125_cu_gnb_amf_ip_address.conf => timeout
+- [29] 126_cu_gnb_amf_ip_address.conf => timeout
+- [30] 127_cu_gnb_amf_ip_address.conf => timeout
+- [31] 128_cu_gnb_amf_ip_address.conf => timeout
+- [32] 129_cu_gnb_amf_ip_address.conf => exit=255
+- [33] 12_cu_gnb_remote_s_portd.conf => timeout
+- [34] 130_cu_gnb_amf_ip_address.conf => exit=255
+- [35] 131_cu_gnb_amf_ip_address.conf => exit=255
+- [36] 132_cu_gnb_amf_ip_address.conf => timeout
+- [37] 133_cu_gnb_amf_ip_address.conf => timeout
+- [38] 134_cu_gnb_amf_ip_address.conf => exit=-11
+- [39] 135_cu_gnb_amf_ip_address.conf => timeout
+- [40] 136_cu_gnb_amf_ip_address.conf => timeout
+- [41] 137_cu_gnb_gNB_ID.conf => timeout
+- [42] 138_cu_gnb_gNB_ID.conf => timeout
+- [43] 139_cu_gnb_gNB_ID.conf => exit=255
+- [44] 13_cu_gnb_tr_s_preference.conf => exit=255
+- [45] 140_cu_gnb_gNB_ID.conf => exit=255
+- [46] 141_cu_gnb_gNB_ID.conf => timeout
+- [47] 142_cu_gnb_gNB_ID.conf => exit=255
+- [48] 143_cu_gnb_gNB_ID.conf => exit=255
+- [49] 144_cu_gnb_gNB_ID.conf => exit=255
+- [50] 145_cu_gnb_gNB_ID.conf => exit=255
+- [51] 146_cu_gnb_gNB_ID.conf => exit=255
+- [52] 147_cu_gnb_gNB_ID.conf => timeout
+- [53] 148_cu_gnb_gNB_ID.conf => exit=255
+- [54] 149_cu_gnb_ciphering_algorithms.conf => exit=1
+- [55] 14_cu_gnb_tr_s_preference.conf => exit=-11
+- [56] 150_cu_gnb_ciphering_algorithms.conf => timeout
+- [57] 151_cu_gnb_ciphering_algorithms.conf => timeout
+- [58] 152_cu_gnb_ciphering_algorithms.conf => timeout
+- [59] 153_cu_gnb_ciphering_algorithms.conf => timeout
+- [60] 154_cu_gnb_ciphering_algorithms.conf => timeout
+- [61] 155_cu_gnb_ciphering_algorithms.conf => timeout
+- [62] 156_cu_gnb_ciphering_algorithms.conf => timeout
+- [63] 157_cu_gnb_ciphering_algorithms.conf => exit=255
+- [64] 158_cu_gnb_ciphering_algorithms.conf => timeout
+- [65] 159_cu_gnb_ciphering_algorithms.conf => exit=255
+- [66] 15_cu_gnb_tr_s_preference.conf => exit=-11
+- [67] 160_cu_gnb_ciphering_algorithms.conf => exit=1
+- [68] 161_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [69] 162_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [70] 163_cu_gnb_SCTP_INSTREAMS.conf => exit=255
+- [71] 164_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [72] 165_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [73] 166_cu_gnb_SCTP_INSTREAMS.conf => exit=255
+- [74] 167_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [75] 168_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [76] 169_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [77] 16_cu_gnb_tr_s_preference.conf => exit=-11
+- [78] 170_cu_gnb_SCTP_INSTREAMS.conf => exit=255
+- [79] 171_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [80] 172_cu_gnb_SCTP_INSTREAMS.conf => timeout
+- [81] 173_cu_gnb_Num_Threads_PUSCH.conf => exit=255
+- [82] 174_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [83] 175_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [84] 176_cu_gnb_Num_Threads_PUSCH.conf => exit=255
+- [85] 177_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [86] 178_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [87] 179_cu_gnb_Num_Threads_PUSCH.conf => exit=255
+- [88] 17_cu_gnb_tr_s_preference.conf => exit=-11
+- [89] 180_cu_gnb_Num_Threads_PUSCH.conf => exit=255
+- [90] 181_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [91] 182_cu_gnb_Num_Threads_PUSCH.conf => exit=255
+- [92] 183_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [93] 184_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [94] 185_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [95] 186_cu_gnb_Num_Threads_PUSCH.conf => timeout
+- [96] 187_cu_gnb_Active_gNBs.conf => exit=255
+- [97] 188_cu_gnb_Active_gNBs.conf => exit=255
+- [98] 189_cu_gnb_Active_gNBs.conf => timeout
+- [99] 18_cu_gnb_tr_s_preference.conf => exit=-11
+- [100] 190_cu_gnb_Active_gNBs.conf => exit=255
+- [101] 191_cu_gnb_Active_gNBs.conf => exit=255
+- [102] 192_cu_gnb_Active_gNBs.conf => exit=255
+- [103] 193_cu_gnb_Active_gNBs.conf => exit=255
+- [104] 194_cu_gnb_Active_gNBs.conf => timeout
+- [105] 195_cu_gnb_Active_gNBs.conf => exit=255
+- [106] 196_cu_gnb_Active_gNBs.conf => timeout
+- [107] 197_cu_gnb_Active_gNBs.conf => exit=255
+- [108] 198_cu_gnb_Active_gNBs.conf => timeout
+- [109] 199_cu_gnb_Active_gNBs.conf => timeout
+- [110] 19_cu_gnb_tr_s_preference.conf => exit=255
+- [111] 1_cu_gnb_remote_s_portd.conf => timeout
+- [112] 200_cu_gnb_Active_gNBs.conf => exit=255
+- [113] 201_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=255
+- [114] 202_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=255
+- [115] 203_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=-11
+- [116] 204_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => timeout
+- [117] 205_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=-11
+- [118] 206_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=255
+- [119] 207_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=255
+- [120] 208_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=-11
+- [121] 209_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=-11
+- [122] 20_cu_gnb_tr_s_preference.conf => exit=-11
+- [123] 210_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=255
+- [124] 211_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => timeout
+- [125] 212_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=255
+- [126] 213_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => timeout
+- [127] 214_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=-11
+- [128] 215_cu_gnb_GNB_IPV4_ADDRESS_FOR_NG_AMF.conf => exit=255
+- [129] 216_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [130] 217_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [131] 218_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [132] 219_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [133] 21_cu_gnb_tr_s_preference.conf => exit=-11
+- [134] 220_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [135] 221_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => exit=255
+- [136] 222_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => exit=255
+- [137] 223_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [138] 224_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [139] 225_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => exit=255
+- [140] 226_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [141] 227_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [142] 228_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [143] 229_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [144] 22_cu_gnb_tr_s_preference.conf => exit=255
+- [145] 230_cu_gnb_GNB_IPV4_ADDRESS_FOR_NGU.conf => timeout
+- [146] 231_cu_gnb_local_s_portd.conf => timeout
+- [147] 232_cu_gnb_local_s_portd.conf => timeout
+- [148] 233_cu_gnb_local_s_portd.conf => timeout
+- [149] 234_cu_gnb_local_s_portd.conf => timeout
+- [150] 235_cu_gnb_local_s_portd.conf => timeout
+- [151] 236_cu_gnb_local_s_portd.conf => timeout
+- [152] 237_cu_gnb_local_s_portd.conf => timeout
+- [153] 238_cu_gnb_local_s_portd.conf => timeout
+- [154] 239_cu_gnb_local_s_portd.conf => timeout
+- [155] 23_cu_gnb_tr_s_preference.conf => timeout
+- [156] 240_cu_gnb_local_s_portd.conf => timeout
+- [157] 241_cu_gnb_local_s_portd.conf => timeout
+- [158] 242_cu_gnb_local_s_portd.conf => timeout
+- [159] 243_cu_gnb_plmn_list.conf => exit=255
+- [160] 244_cu_gnb_plmn_list.conf => exit=255
+- [161] 245_cu_gnb_plmn_list.conf => exit=255
+- [162] 246_cu_gnb_plmn_list.conf => exit=255
+- [163] 247_cu_gnb_plmn_list.conf => timeout
+- [164] 248_cu_gnb_plmn_list.conf => exit=255
+- [165] 249_cu_gnb_plmn_list.conf => exit=255
+- [166] 24_cu_gnb_tr_s_preference.conf => exit=-11
+- [167] 250_cu_gnb_plmn_list.conf => exit=255
+- [168] 251_cu_gnb_plmn_list.conf => exit=255
+- [169] 252_cu_gnb_plmn_list.conf => exit=255
+- [170] 253_cu_gnb_plmn_list.conf => exit=255
+- [171] 254_cu_gnb_plmn_list.conf => exit=255
+- [172] 255_cu_gnb_integrity_algorithms.conf => exit=255
+- [173] 256_cu_gnb_integrity_algorithms.conf => exit=1
+- [174] 257_cu_gnb_integrity_algorithms.conf => exit=1
+- [175] 258_cu_gnb_integrity_algorithms.conf => exit=1
+- [176] 259_cu_gnb_integrity_algorithms.conf => timeout
+- [177] 25_cu_gnb_tr_s_preference.conf => exit=-11
+- [178] 260_cu_gnb_integrity_algorithms.conf => timeout
+- [179] 261_cu_gnb_integrity_algorithms.conf => timeout
+- [180] 262_cu_gnb_integrity_algorithms.conf => timeout
+- [181] 263_cu_gnb_integrity_algorithms.conf => timeout
+- [182] 264_cu_gnb_integrity_algorithms.conf => timeout
+- [183] 265_cu_gnb_integrity_algorithms.conf => timeout
+- [184] 266_cu_gnb_integrity_algorithms.conf => exit=1
+- [185] 267_cu_gnb_integrity_algorithms.conf => exit=255
+- [186] 268_cu_gnb_local_s_address.conf => exit=255
+- [187] 269_cu_gnb_local_s_address.conf => exit=255
+- [188] 26_cu_gnb_GNB_PORT_FOR_S1U.conf => exit=255
+- [189] 270_cu_gnb_local_s_address.conf => exit=255
+- [190] 271_cu_gnb_local_s_address.conf => timeout
+- [191] 272_cu_gnb_local_s_address.conf => exit=255
+- [192] 273_cu_gnb_local_s_address.conf => exit=255
+- [193] 274_cu_gnb_local_s_address.conf => timeout
+- [194] 275_cu_gnb_local_s_address.conf => timeout
+- [195] 276_cu_gnb_local_s_address.conf => timeout
+- [196] 277_cu_gnb_local_s_address.conf => exit=255
+- [197] 278_cu_gnb_local_s_address.conf => exit=255
+- [198] 279_cu_gnb_local_s_address.conf => exit=255
+- [199] 27_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [200] 280_cu_gnb_local_s_address.conf => exit=255
+- [201] 281_cu_gnb_local_s_address.conf => timeout
+- [202] 282_cu_gnb_local_s_address.conf => exit=255
+- [203] 283_cu_gnb_local_s_address.conf => exit=255
+- [204] 284_cu_gnb_local_s_address.conf => exit=255
+- [205] 285_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [206] 286_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [207] 287_cu_gnb_SCTP_OUTSTREAMS.conf => exit=255
+- [208] 288_cu_gnb_SCTP_OUTSTREAMS.conf => exit=255
+- [209] 289_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [210] 28_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [211] 290_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [212] 291_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [213] 292_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [214] 293_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [215] 294_cu_gnb_SCTP_OUTSTREAMS.conf => exit=255
+- [216] 295_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [217] 296_cu_gnb_SCTP_OUTSTREAMS.conf => timeout
+- [218] 29_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [219] 2_cu_gnb_remote_s_portd.conf => timeout
+- [220] 30_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [221] 31_cu_gnb_GNB_PORT_FOR_S1U.conf => exit=255
+- [222] 32_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [223] 33_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [224] 34_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [225] 35_cu_gnb_GNB_PORT_FOR_S1U.conf => exit=255
+- [226] 36_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [227] 37_cu_gnb_GNB_PORT_FOR_S1U.conf => timeout
+- [228] 38_cu_gnb_nr_cellid.conf => exit=255
+- [229] 39_cu_gnb_nr_cellid.conf => timeout
+- [230] 3_cu_gnb_remote_s_portd.conf => timeout
+- [231] 40_cu_gnb_nr_cellid.conf => timeout
+- [232] 41_cu_gnb_nr_cellid.conf => exit=255
+- [233] 42_cu_gnb_nr_cellid.conf => timeout
+- [234] 43_cu_gnb_nr_cellid.conf => timeout
+- [235] 44_cu_gnb_nr_cellid.conf => timeout
+- [236] 45_cu_gnb_nr_cellid.conf => timeout
+- [237] 46_cu_gnb_nr_cellid.conf => timeout
+- [238] 47_cu_gnb_nr_cellid.conf => exit=255
+- [239] 48_cu_gnb_nr_cellid.conf => timeout
+- [240] 49_cu_gnb_nr_cellid.conf => timeout
+- [241] 4_cu_gnb_remote_s_portd.conf => timeout
+- [242] 50_cu_gnb_local_s_portc.conf => timeout
+- [243] 51_cu_gnb_local_s_portc.conf => timeout
+- [244] 52_cu_gnb_local_s_portc.conf => timeout
+- [245] 53_cu_gnb_local_s_portc.conf => timeout
+- [246] 54_cu_gnb_local_s_portc.conf => timeout
+- [247] 55_cu_gnb_local_s_portc.conf => timeout
+- [248] 56_cu_gnb_local_s_portc.conf => timeout
+- [249] 57_cu_gnb_local_s_portc.conf => timeout
+- [250] 58_cu_gnb_local_s_portc.conf => timeout
+- [251] 59_cu_gnb_local_s_portc.conf => timeout
+- [252] 5_cu_gnb_remote_s_portd.conf => timeout
+- [253] 60_cu_gnb_local_s_portc.conf => timeout
+- [254] 61_cu_gnb_local_s_portc.conf => timeout
+- [255] 62_cu_gnb_local_s_if_name.conf => timeout
+- [256] 63_cu_gnb_local_s_if_name.conf => timeout
+- [257] 64_cu_gnb_local_s_if_name.conf => timeout
+- [258] 65_cu_gnb_local_s_if_name.conf => exit=255
+- [259] 66_cu_gnb_local_s_if_name.conf => exit=255
+- [260] 67_cu_gnb_local_s_if_name.conf => timeout
+- [261] 68_cu_gnb_local_s_if_name.conf => exit=255
+- [262] 69_cu_gnb_local_s_if_name.conf => exit=255
+- [263] 6_cu_gnb_remote_s_portd.conf => timeout
+- [264] 70_cu_gnb_local_s_if_name.conf => timeout
+- [265] 71_cu_gnb_local_s_if_name.conf => timeout
+- [266] 72_cu_gnb_local_s_if_name.conf => timeout
+- [267] 73_cu_gnb_local_s_if_name.conf => timeout
+- [268] 74_cu_gnb_local_s_if_name.conf => timeout
+- [269] 75_cu_gnb_local_s_if_name.conf => timeout
+- [270] 76_cu_gnb_local_s_if_name.conf => timeout
+- [271] 77_cu_gnb_gNB_name.conf => timeout
+- [272] 78_cu_gnb_gNB_name.conf => exit=255
+- [273] 79_cu_gnb_gNB_name.conf => timeout
+- [274] 7_cu_gnb_remote_s_portd.conf => timeout
+- [275] 80_cu_gnb_gNB_name.conf => timeout
+- [276] 81_cu_gnb_gNB_name.conf => timeout
+- [277] 82_cu_gnb_gNB_name.conf => timeout
+- [278] 83_cu_gnb_gNB_name.conf => exit=255
+- [279] 84_cu_gnb_gNB_name.conf => timeout
+- [280] 85_cu_gnb_gNB_name.conf => timeout
+- [281] 86_cu_gnb_gNB_name.conf => exit=255
+- [282] 87_cu_gnb_gNB_name.conf => timeout
+- [283] 88_cu_gnb_gNB_name.conf => timeout
+- [284] 89_cu_gnb_gNB_name.conf => timeout
+- [285] 8_cu_gnb_remote_s_portd.conf => timeout
+- [286] 90_cu_gnb_remote_s_portc.conf => timeout
+- [287] 91_cu_gnb_remote_s_portc.conf => timeout
+- [288] 92_cu_gnb_remote_s_portc.conf => timeout
+- [289] 93_cu_gnb_remote_s_portc.conf => timeout
+- [290] 94_cu_gnb_remote_s_portc.conf => timeout
+- [291] 95_cu_gnb_remote_s_portc.conf => timeout
+- [292] 96_cu_gnb_remote_s_portc.conf => timeout
+- [293] 97_cu_gnb_remote_s_portc.conf => timeout
+- [294] 98_cu_gnb_remote_s_portc.conf => timeout
+- [295] 99_cu_gnb_remote_s_portc.conf => timeout
+- [296] 9_cu_gnb_remote_s_portd.conf => timeout
+Execution time: 1h 12m 53.58s
+
+✅ All configs executed.
