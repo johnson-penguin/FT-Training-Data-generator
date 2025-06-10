@@ -1,7 +1,0 @@
--Num_Threads_PUSCH = 8;
-
-+Num_Threads_PUSCH = 4;
-
--    remote_s_address = remote_s_address = 192.168.10.2;
-
-+    remote_s_address = 192.168.8.21;

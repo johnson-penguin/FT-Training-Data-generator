@@ -1,0 +1,11 @@
+[
+  {
+    "label": "local_s_portc",
+    "before": "local_s_portc = 0xZZZZ;",
+    "after": "local_s_portc = 501;",
+    "model_reason": "The original value '0xZZZZ' is invalid hexadecimal and caused a syntax error, preventing the CU from starting. Reverting to the recommended default port resolves the parsing error.",
+    "reference_reason": "OAI recommends using port 501 by default.",
+    "config_type": "CU",
+    "source_file": "50_cu_gnb_local_s_portc.conf"
+  }
+]

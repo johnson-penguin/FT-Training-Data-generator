@@ -3,7 +3,7 @@
     "label": "integrity_algorithms",
     "content": "integrity_algorithms = ( \"nia0\", \"nia2\" );",
     "reference_reason": "Matches expected supported integrity algorithms",
-    "model_reason": "Removing unsupported integrity algorithms prevents CU startup failure and ensures compatibility with the network configuration. This change is necessary to maintain a stable and secure connection.",
+    "model_reason": "Removing unsupported integrity algorithms prevents CU startup failure and ensures compatibility with the network configuration. The change maintains the original supported algorithms, ensuring no disruption to the existing security settings.",
     "target": "CU"
   }
 ]

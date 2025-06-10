@@ -1,0 +1,16 @@
+[
+  {
+    "label": "remote_s_portd",
+    "content": "remote_s_portd = 2152;",
+    "reference_reason": "Matches OAI default value of 2152.",
+    "model_reason": "The debug knowledge indicates a potential integer parsing issue. Ensuring the value matches the default prevents startup failures due to incorrect configuration, as the original error was related to 'remote_s_portd'.",
+    "target": "CU"
+  },
+  {
+    "label": "local_s_portc",
+    "content": "local_s_portc = 500;",
+    "reference_reason": "Using the default value 500 for consistency and alignment with standard configurations.",
+    "model_reason": "The error description indicates 'local_s_portc' has syntax error. Setting it to a valid integer value, like 500, resolves the startup issue and prevents potential communication problems between CU and DU.",
+    "target": "CU"
+  }
+]

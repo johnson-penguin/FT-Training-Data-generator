@@ -1,0 +1,9 @@
+[
+  {
+    "label": "nr_cellid",
+    "content": "nr_cellid = 0x1;",
+    "reference_reason": "No direct reference to nr_cellid in the table, using a valid hexadecimal value.",
+    "model_reason": "The original value was causing a syntax error due to invalid formatting. Using a valid hexadecimal value resolves the libconfig parsing failure and allows for proper CU initialization.",
+    "target": "CU"
+  }
+]

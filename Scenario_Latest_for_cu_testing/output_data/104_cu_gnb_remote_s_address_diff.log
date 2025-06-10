@@ -1,7 +1,0 @@
--    remote_s_address = "@#$%^&*";
-
-+    remote_s_address = "192.168.8.21";
-
--  integrity_algorithms = ( "nia2", "nia0" );
-
-+  integrity_algorithms = ( "nia0", "nia1", "nia2", "nia3" );

@@ -1,3 +1,0 @@
--  integrity_algorithms = ( "nia2", "nia0" );
-
-+  integrity_algorithms = ( "nia0", "nia1", "nia2", "nia3" );

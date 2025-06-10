@@ -1,0 +1,11 @@
+[
+  {
+    "label": "local_s_if_name",
+    "before": "local_s_if_name = ;",
+    "after": "local_s_if_name = \"lo\";",
+    "model_reason": "The CU and DU are configured with loopback addresses (127.0.0.x), indicating they reside on the same machine. Setting the 'local_s_if_name' to 'lo' ensures proper internal communication using the loopback interface, resolving the CU init failure and allowing F1AP messages to be sent/received successfully.",
+    "reference_reason": "CU and DU addresses are 127.0.0.*, so they are on the same machine. Therefore, local interface should be loopback.",
+    "config_type": "CU",
+    "source_file": "69_cu_gnb_local_s_if_name.conf"
+  }
+]

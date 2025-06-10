@@ -1,0 +1,11 @@
+[
+  {
+    "label": "local_s_if_name",
+    "before": "local_s_if_name = eth0;",
+    "after": "local_s_if_name = \"eth0\";",
+    "model_reason": "The 'local_s_if_name' parameter requires the interface name to be enclosed in double quotes to be parsed correctly by the configuration parser. Failing to do so results in a syntax error and CU startup failure.",
+    "reference_reason": "NIC name needs to be enclosed with double quotes.",
+    "config_type": "CU",
+    "source_file": "66_cu_gnb_local_s_if_name.conf"
+  }
+]

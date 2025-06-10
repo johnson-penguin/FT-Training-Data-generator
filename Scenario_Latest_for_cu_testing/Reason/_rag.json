@@ -1,0 +1,30 @@
+[
+  {
+    "label": "local_s_if_name",
+    "content": "local_s_if_name = \"eth0\";",
+    "reference_reason": "Missing value in original configuration. 'eth0' is a common interface name.",
+    "model_reason": "The `local_s_if_name` parameter was empty, causing the CU to fail to bind to a network interface. Setting it to 'eth0' allows the CU to communicate over the F1 interface assuming the system is configured for this interface, which is standard. Check system configuration if using another interface than eth0.",
+    "target": "CU"
+  },
+  {
+    "label": "amf_ip_address",
+    "content": "amf_ip_address = ({ ipv4 = \"192.168.8.21\" });",
+    "reference_reason": "Matches CN_AMF_IP from the reference device table.",
+    "model_reason": "The `amf_ip_address` parameter must match the core network's AMF IP address for successful registration. Ensuring it aligns with the reference device table guarantees connectivity with the core network.",
+    "target": "CU"
+  },
+  {
+    "label": "GNB_IPV4_ADDRESS_FOR_NG_AMF",
+    "content": "GNB_IPV4_ADDRESS_FOR_NG_AMF = \"192.168.8.43\";",
+    "reference_reason": "This address is a placeholder; ensure that the gNB address is correctly configured and reachable from the AMF.",
+    "model_reason": "The gNB IPv4 address for NG-AMF communication is essential for control plane signaling between the CU and the core network. The provided address is a placeholder, verify the correct configuration.",
+    "target": "CU"
+  },
+  {
+    "label": "GNB_IPV4_ADDRESS_FOR_NGU",
+    "content": "GNB_IPV4_ADDRESS_FOR_NGU = \"192.168.8.43\";",
+    "reference_reason": "This address is a placeholder; ensure that the gNB address is correctly configured and reachable for user plane traffic.",
+    "model_reason": "The gNB IPv4 address for NGU communication handles user plane data transfer. Correctly configuring this address is crucial for ensuring that user traffic can flow between the gNB and the core network. The provided address is a placeholder, verify the correct configuration.",
+    "target": "CU"
+  }
+]

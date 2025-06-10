@@ -1,0 +1,11 @@
+-    tr_s_preference = "@#$%^&*";
+
+-    # tr_s_preference = "s1"
+
+-
+
+-    local_s_if_name = "lo";
+
++    tr_s_preference = "f1";
+
++    # tr_s_preference = "f1";

@@ -1,0 +1,3 @@
+-    local_s_portc = 0xZZZZ;
+
++    local_s_portc = 501;

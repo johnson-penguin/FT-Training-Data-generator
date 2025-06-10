@@ -1,0 +1,3 @@
+-    local_s_if_name = ;
+
++    local_s_if_name = "lo";

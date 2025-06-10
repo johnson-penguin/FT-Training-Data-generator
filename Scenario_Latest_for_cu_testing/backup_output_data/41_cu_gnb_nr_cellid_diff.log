@@ -1,0 +1,3 @@
+-    nr_cellid = ;
+
++    nr_cellid = 0x12345678;

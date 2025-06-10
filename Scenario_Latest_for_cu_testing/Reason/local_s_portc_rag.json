@@ -1,0 +1,9 @@
+[
+  {
+    "label": "local_s_portc",
+    "content": "local_s_portc = 501;",
+    "reference_reason": "Matches recommended default port for F1-C interface.",
+    "model_reason": "The original configuration had a syntax error (`local_s_portc = local_s_portc = 501;`).  This correction sets the `local_s_portc` to the correct and recommended value of 501, resolving the CU startup failure.",
+    "target": "CU"
+  }
+]

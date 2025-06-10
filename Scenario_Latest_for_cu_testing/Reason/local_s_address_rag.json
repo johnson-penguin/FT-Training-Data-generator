@@ -1,0 +1,9 @@
+[
+  {
+    "label": "local_s_address",
+    "content": "local_s_address = \"192.168.8.43\";",
+    "reference_reason": "The CU gNB IP address is 192.168.8.43 based on the provided config block values for GNB_IPV4_ADDRESS_FOR_NG_AMF and GNB_IPV4_ADDRESS_FOR_NGU.",
+    "model_reason": "The CU init failure indicates that the configured local_s_address (127.0.0.5) is either unavailable or already in use on the host. Assigning the CU's gNB IP address to local_s_address ensures the CU can bind to a valid and available address for F1AP communication.",
+    "target": "CU"
+  }
+]

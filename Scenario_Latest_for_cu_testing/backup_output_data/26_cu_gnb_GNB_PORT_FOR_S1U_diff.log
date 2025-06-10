@@ -1,0 +1,3 @@
+-        GNB_PORT_FOR_S1U = ; 
+
++        GNB_PORT_FOR_S1U = 2152; 

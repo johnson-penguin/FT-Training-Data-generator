@@ -1,0 +1,11 @@
+[
+  {
+    "label": "local_s_portc",
+    "before": "local_s_portc = ;",
+    "after": "local_s_portc = 501;",
+    "model_reason": "The `local_s_portc` parameter was missing a value, causing a parsing error. Setting it to the recommended default of 501 should resolve the CU startup failure and is required for establishing the F1-C interface with the DU.",
+    "reference_reason": "OpenAirInterface (OAI) recommends using port `501` by default for this purpose.",
+    "config_type": "CU",
+    "source_file": "54_cu_gnb_local_s_portc.conf"
+  }
+]

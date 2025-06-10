@@ -1,0 +1,3 @@
+-    remote_s_portd = 0xZZZZ;
+
++    remote_s_portd = 2152;
