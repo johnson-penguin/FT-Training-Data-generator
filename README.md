@@ -1,82 +1,43 @@
-## `get_files_in_directory.py` Read Directory and Save Filenames as JSON
+## Flow chart
+![LLM-cu_ft_data_gen drawio](https://github.com/user-attachments/assets/44bb6ed4-60b4-403f-ad0c-a42911567c4f)
 
-## Overview
+## 1. `cu_input_values.json`
+This is a configuration list file, with the following format:
+```bash=
+{
+  "cu_input_values": [
+    "0_cu_gnb_original",
+    "1_cu_gnb_remote_s_portd",
+    ...
+    "296_cu_gnb_SCTP_OUTSTREAMS"
+  ]
+}
+```
+- It provides an array of parameter names, where each name represents a specific configuration variant for a test execution.
+- Each entry corresponds to a specific .conf configuration file and .log output file.
 
-This script aims to get all `.conf` file names from a specified directory, remove the path and `.conf` extension from the file names, and then save them in JSON format sorted naturally. The processed filenames can be used for other automation configuration tasks or data analysis.
+## 2. `gen_training_data_generator.py`
+This is an automated batch processing script that generates and executes multiple Jupyter Notebooks based on the parameter list defined in `cu_input_values.json`, and records the results.
 
-### Main Features
+Its main functions are as follows:
+- Load values from `cu_input_values.json`:
+```bash=
+cu_input_values = load_cu_input_values(json_path)
+```  
+- For each `cu_input_value`:
+   - Copy and modify the `cu_input_index` variable inside the `.ipynb file` (this variable specifies the target parameter to be tested).
+   - Save it as a new Notebook, e.g., `187_cu_gnb_Active_gNBs.ipynb`.
+   - Execute the notebook using `jupyter nbconvert` to produce the corresponding result and log files.
+- This process is repeated (for the first 100 items, by default) to build a dataset for training or analysis purposes.
 
-1. **Get all `.conf` file names in the directory**  
-   Use the `tree` command to traverse the specified directory, extract `.conf` file names, and remove the path and `.conf` extension.
+## 3. `testing_integration_tool_for_teep_for_cu.ipynb`
+This is a ***Jupyter Notebook used for integration testing and data generation.***
 
-2. **Natural sorting**  
-   Sort the file names based on the numeric part, ensuring the filenames are ordered numerically rather than alphabetically.
+For each test case specified by `cu_input_index`, the notebook:
+- Loads the corresponding configuration file (e.g., `187_cu_gnb_Active_gNBs.conf`)
+- Loads the associated log file (e.g., `187_cu_gnb_Active_gNBs_log.txt`)
+- Optionally uses external references such as `reference_config.txt` and `debug.yaml`
+- Performs automatic validation and analysis
+- Outputs the result in a structured format, which can be used for supervised fine-tuning (SFT) or debugging datasets
 
-3. **Save as JSON file**  
-   Save the processed file names in JSON format, making it easier to read and process later.
-
-### Function Descriptions
-
-#### `get_files_in_directory(directory_path)`
-
-- **Description**:  
-  Executes the `tree` command to traverse the specified directory and get all `.conf` file names, removing the path and `.conf` extension.
-
-- **Parameters**:  
-  - `directory_path`: Directory path
-
-- **Return Value**:  
-  - Array of file names without path and `.conf` extension
-
-#### `save_to_json(data, file_path)`
-
-- **Description**:  
-  Saves data (such as a list of file names) as a JSON file.
-
-- **Parameters**:  
-  - `data`: Data to be saved (such as file name array)
-  - `file_path`: Path to save the file
-
-- **Return Value**:  
-  - No return value, the data will be saved in the specified JSON file.
-
-#### `natural_sort_key(s)`
-
-- **Description**:  
-  This function generates a natural sorting key for filenames, allowing sorting based on the numeric part of the filename.
-
-- **Parameters**:  
-  - `s`: File name string
-
-- **Return Value**:  
-  - Sorting key based on numerical order
-
-### Usage Instructions
-
-1. **Set directory path**  
-   In the script, the variable `directory_path` is set to the path of the directory containing the `.conf` files. Change this to the path of your local directory.
-
-2. **Run the script**  
-   When executing the script, it will:  
-   - Execute the `tree` command to extract all `.conf` file names from the directory.  
-   - Remove the path and `.conf` extension from the filenames and sort them naturally.  
-   - Finally, it will save the file names in JSON format and output the file path and the number of files.
-
-### Input/Output Examples
-
-- **Input Example**:  
-  Assuming the directory `/home/aiml/johnson/Scenario/Scenario_Latest_for_cu_testing/input_data/conf` contains the following files:  
-  - `001_cu_gnb_Num_Threads_PUSCH.conf`  
-  - `002_cu_gnb_Remote_Address.conf`  
-  - `003_cu_gnb_IP_Configuration.conf`
-
-- **Output Example**:  
-  The result saved in `cu_input_values.json`:  
-  ```json
-  {
-    "cu_input_values": [
-      "001_cu_gnb_Num_Threads_PUSCH",
-      "002_cu_gnb_Remote_Address",
-      "003_cu_gnb_IP_Configuration"
-    ]
-  }
+The notebook acts as the core execution and reasoning unit, generating training examples based on configuration correctness, error logs, and parameter behavior.
