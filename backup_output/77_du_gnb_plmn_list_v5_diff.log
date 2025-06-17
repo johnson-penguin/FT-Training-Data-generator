@@ -1,0 +1,3 @@
+-    plmn_list = ({ mcc = 999; mnc = 999; });
+
++    plmn_list = ({ mcc = 999; mnc = 999; mnc_length = 3; }); mnc = 999; });

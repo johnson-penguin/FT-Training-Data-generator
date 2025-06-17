@@ -4,4 +4,4 @@
 
 -    gNB_name  =  "";
 
-+    gNB_name  =  "gNB-Eurecom-DU";
++    gNB_name = "gNB-Eurecom-DU";

@@ -3,7 +3,7 @@
     "label": "gNB_ID",
     "before": "gNB_ID = true;",
     "after": "gNB_ID = 0xe00;",
-    "model_reason": "The DU configuration had an error. `gNB_ID` parameter was set to `true`. Ensuring that gNB_DU_ID is equal to CU.gNB_ID resolves F1 registration failure.",
+    "model_reason": "The DU failed to start due to a missing gNB_ID. This parameter must be an integer value matching CU gNB_ID, not a boolean, to allow the DU to connect to the CU. It is required for DU initialization.",
     "reference_reason": "No relevant information found in reference_context.",
     "config_type": "DU",
     "source_file": "28_du_gnb_gNB_ID_v3.conf"

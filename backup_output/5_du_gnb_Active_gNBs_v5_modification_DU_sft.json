@@ -2,8 +2,8 @@
   {
     "label": "Active_gNBs",
     "before": "Active_gNBs = ( [\"gNB-Eurecom-DU\"]);",
-    "after": "Active_gNBs = ( [\"gNB-Eurecom-DU\"] );",
-    "model_reason": "The DU Active_gNBs parameter is correctly configured with the DU gNB name. Maintaining consistency with the expected DU identity is crucial for proper operation.",
+    "after": "Active_gNBs = ( \"gNB-Eurecom-DU\");",
+    "model_reason": "The DU Active_gNBs parameter has been corrected to match the gNB_name. This ensures the DU can correctly register with the CU.",
     "reference_reason": "No relevant information found in reference_context.",
     "config_type": "DU",
     "source_file": "5_du_gnb_Active_gNBs_v5.conf"

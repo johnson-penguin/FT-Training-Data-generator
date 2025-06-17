@@ -1,0 +1,11 @@
+[
+  {
+    "label": "DU Initialization",
+    "before": null,
+    "after": null,
+    "model_reason": "DU started successfully. No revision needed.",
+    "reference_reason": "",
+    "config_type": "DU",
+    "source_file": "0_du_gnb_original.conf"
+  }
+]

@@ -1,0 +1,7 @@
+-    gNB_ID = "@#$%^&*";
+
++    gNB_ID = 0xe00;
+
+-    gNB_name  =  "gNB-Eurecom-DU";
+
++    gNB_name  =  "gNB-Eurecom-CU";

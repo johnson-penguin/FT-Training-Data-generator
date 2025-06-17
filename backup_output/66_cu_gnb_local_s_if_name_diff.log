@@ -1,0 +1,4 @@
+-    local_s_if_name = eth0;
+
++    local_s_if_name = "eth0";
+ 
