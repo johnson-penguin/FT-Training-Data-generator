@@ -1,0 +1,9 @@
+[
+  {
+    "label": "gNB_DU_ID",
+    "content": "gNB_DU_ID = 0xe00;",
+    "reference_reason": "No relevant information found in reference_context.",
+    "model_reason": "The DU configuration file is missing the `gNB_DU_ID` parameter, which is mandatory. The value is set to 0xe00 to match CU.gNB_ID, ensuring F1 registration success.",
+    "target": "DU"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "label": "gNB_DU_ID",
+    "content": "gNB_DU_ID = 0xe00;",
+    "reference_reason": "No relevant information found in reference_context.",
+    "model_reason": "The `gNB_DU_ID` was set to an invalid value. It must be an integer and match the `gNB_ID` in the CU configuration to ensure proper F1AP registration and avoid configuration load errors.",
+    "target": "DU"
+  }
+]

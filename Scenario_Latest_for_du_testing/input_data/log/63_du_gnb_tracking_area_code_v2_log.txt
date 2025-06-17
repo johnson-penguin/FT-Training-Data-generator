@@ -1,0 +1,15 @@
+CMDLINE: "./nr-softmodem" "--rfsim" "--sa" "-O" "../../../targets/PROJECTS/GENERIC-NR-5GC/CONF/fata/Scenario_Gen/du/du_test_conf/63_du_gnb_tracking_area_code_v2.conf" 
+[CONFIG] function config_libconfig_init returned 0
+[UTIL]   running in SA mode (no --phy-test, --do-ra, --nsa option present)
+[OPT]   OPT disabled
+[HW]   Version: Branch: HEAD Abrev. Hash: 054506f5ae Date: Tue Dec 10 13:33:23 2024 +0000
+[GNB_APP]   Initialized RAN Context: RC.nb_nr_inst = 1, RC.nb_nr_macrlc_inst = 1, RC.nb_nr_L1_inst = 1, RC.nb_RU = 1, RC.nb_nr_CC[0] = 1
+[NR_PHY]   Initializing gNB RAN context: RC.nb_nr_L1_inst = 1 
+[NR_PHY]   Registered with MAC interface module (0x4b17b80)
+[NR_PHY]   Initializing NR L1: RC.nb_nr_L1_inst = 1
+[NR_PHY]   L1_RX_THREAD_CORE -1 (15)
+[NR_PHY]   TX_AMP = 519 (-36 dBFS)
+[PHY]   No prs_config configuration found..!!
+[CONFIG] config_check_intrange: tracking_area_code: 0 invalid value, authorized range: 1 65533
+[ENB_APP]   [CONFIG] config_execcheck: section gNBs.[0] 1 parameters with wrong value
+../../../common/config/config_userapi.c:102 config_execcheck() Exiting OAI softmodem: exit_fun

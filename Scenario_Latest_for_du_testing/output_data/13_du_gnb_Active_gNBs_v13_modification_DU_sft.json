@@ -1,0 +1,11 @@
+[
+  {
+    "label": "Active_gNBs",
+    "before": "Active_gNBs = ( \"invalid-name\");",
+    "after": "Active_gNBs = ( \"gNB-Eurecom-DU\");",
+    "model_reason": "The DU failed to start because the `Active_gNBs` parameter did not match the `gNB_name` parameter. This correction ensures the DU can register to itself, resolving the initialization failure.",
+    "reference_reason": "No relevant information found in reference_context.",
+    "config_type": "DU",
+    "source_file": "13_du_gnb_Active_gNBs_v13.conf"
+  }
+]

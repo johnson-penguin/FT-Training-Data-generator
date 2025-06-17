@@ -1,0 +1,9 @@
+[
+  {
+    "label": "nb_tx",
+    "content": "nb_tx = 1;",
+    "reference_reason": "No relevant information found in reference_context.",
+    "model_reason": "The DU is failing because the number of logical antenna ports exceeds the physical antenna count. Setting `nb_tx` to 1 explicitly resolves the initialization failure by ensuring at least one transmit antenna is configured.",
+    "target": "DU"
+  }
+]

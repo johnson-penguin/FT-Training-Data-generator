@@ -1,0 +1,16 @@
+[
+  {
+    "label": "tr_s_preference",
+    "content": "tr_s_preference = e1;",
+    "reference_reason": "Corrects syntax error by removing duplicate parameter name",
+    "model_reason": "Resolves syntax error causing CU startup failure, ensuring proper configuration parsing.",
+    "target": "CU"
+  },
+  {
+    "label": "Num_Threads_PUSCH",
+    "content": "Num_Threads_PUSCH = 4;",
+    "reference_reason": "Matches OAI default value for optimal performance",
+    "model_reason": "Ensures the number of threads for PUSCH is set to a valid integer value, which is crucial for efficient network operation and troubleshooting.",
+    "target": "CU"
+  }
+]

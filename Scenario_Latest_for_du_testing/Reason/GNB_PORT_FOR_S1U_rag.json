@@ -1,0 +1,9 @@
+[
+  {
+    "label": "local_s_portc",
+    "content": "local_s_portc = 2152;",
+    "reference_reason": "Recommended OAI default value: 2152.",
+    "model_reason": "The original value '0xZZZZ' is not a valid integer, causing a syntax error and CU initialization failure. Replacing it with the recommended default value resolves the syntax error.",
+    "target": "CU"
+  }
+]

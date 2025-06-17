@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Active_gNBs",
+    "content": "Active_gNBs = ( \"gNB-Eurecom-CU\");",
+    "reference_reason": "No relevant information found in reference_context.",
+    "model_reason": "CU initialization was successful; thus, this parameter does not require modification. It correctly identifies the gNB name for the CU.",
+    "target": "CU"
+  },
+  {
+    "label": "gNB_name",
+    "content": "gNB_name = \"gNB-Eurecom-DU\";",
+    "reference_reason": "No relevant information found in reference_context.",
+    "model_reason": "The original gNB_name was an integer. This update corrects it to the expected string format and ensures consistency with the Active_gNBs parameter for proper DU initialization.",
+    "target": "DU"
+  },
+  {
+    "label": "Active_gNBs",
+    "content": "Active_gNBs = ( \"gNB-Eurecom-DU\");",
+    "reference_reason": "No relevant information found in reference_context.",
+    "model_reason": "The DU failed to start due to a mismatch or missing Active_gNBs configuration. This change ensures that Active_gNBs matches the DU's gNB_name, enabling successful registration during initialization.",
+    "target": "DU"
+  }
+]
